@@ -1,0 +1,182 @@
+{
+    "ios_app_store_link" : "",
+    "android_play_store_link" : "",
+    "sticker_packs" : [
+    {
+        "identifier": "1",
+        "name": "Zohrab",
+        "publisher": "Step IT Baku",
+        "tray_image_file" : "stepzohrab.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+            "image_file": "zohrab1.png",
+            "emojis": ["😩","😡"]
+        },
+        
+        {
+          "image_file": "zohrab2.png",
+          "emojis": ["🤨","😤"]
+        },
+        {
+          "image_file": "zohrab3.png",
+          "emojis": ["😐","🙄"]
+        },
+        {
+          "image_file": "zohrab4.png",
+          "emojis": ["🤬","😠"]
+        },
+        {
+          "image_file": "zohrab5.png",
+          "emojis": ["🤨","🤘"]
+        },
+        {
+          "image_file": "zohrab6.png",
+          "emojis": ["👍","😦"]
+        },
+        {
+          "image_file": "zohrab7.png",
+          "emojis": ["🤔","👎"]
+        },
+        {
+          "image_file": "zohrab8.png",
+          "emojis": ["😢","🥺"]
+        },
+        {
+          "image_file": "zohrab9.png",
+          "emojis": ["😑","😒"]
+        },
+        {
+          "image_file": "zohrab10.png",
+          "emojis": ["🤯","😤"]
+        },
+        {
+          "image_file": "zohrab11.png",
+          "emojis": ["😏","🤨"]
+        },
+        {
+          "image_file": "zohrab12.png",
+          "emojis": ["😘","😍"]
+        },
+        {
+          "image_file": "zohrab13.png",
+          "emojis": ["😀","👍"]
+        },
+        {
+          "image_file": "zohrab14.png",
+          "emojis": ["🤭","😥"]
+        },
+        {
+          "image_file": "zohrab15.png",
+          "emojis": ["☝️","😕"]
+        },
+        {
+          "image_file": "zohrab16.png",
+          "emojis": ["😉","🙃"]
+        },
+        {
+          "image_file": "zohrab17.png",
+          "emojis": ["🤬","😤"]
+        },
+        {
+          "image_file": "zohrab18.png",
+          "emojis": ["🤩","🤝"]
+        },
+        {
+          "image_file": "zohrab19.png",
+          "emojis": ["🙀","🧐"]
+        },
+        {
+          "image_file": "zohrab20.png",
+          "emojis": ["🙁","🤭"]
+        },
+        {
+          "image_file": "zohrab21.png",
+          "emojis": ["😉","🤗"]
+        },
+        {
+          "image_file": "zohrab22.png",
+          "emojis": ["😛","🥳"]
+        },
+        {
+          "image_file": "zohrab23.png",
+          "emojis": ["☹️","😢"]
+        },
+        {
+          "image_file": "zohrab24.png",
+          "emojis": ["😬","🧐"]
+        }
+        ]
+    },
+        {
+        "identifier": "2",
+        "name": "Computer",
+        "publisher": "Step IT Baku",
+        "tray_image_file" : "stepitcomputer.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+          "image_file": "comp1.png",
+          "emojis": ["🤨","🤔"]
+        },
+        {
+          "image_file": "comp2.png",
+          "emojis": ["😥","🙀"]
+        },
+        {
+          "image_file": "comp3.png",
+          "emojis": ["🤨","🤔"]
+        },
+        {
+          "image_file": "comp4.png",
+          "emojis": ["🥰","👍"]
+        },
+        {
+          "image_file": "comp5.png",
+          "emojis": ["😈","👿"]
+        },
+        {
+          "image_file": "comp6.png",
+          "emojis": ["🤨","🤖"]
+        },
+        {
+          "image_file": "comp7.png",
+          "emojis": ["😒","😏"]
+        }]
+    },
+            {
+        "identifier": "3",
+        "name": "Unicorn",
+        "publisher": "Step IT Baku",
+        "tray_image_file" : "stepunicorn.png",
+        "publisher_website" : "",
+        "privacy_policy_website" : "",
+        "license_agreement_website" : "",
+        "stickers": [
+        {
+          "image_file": "unicorn1.png",
+          "emojis": ["😀","😜"]
+        },
+        {
+          "image_file": "unicorn2.png",
+          "emojis": ["💻","🤓"]
+        },
+        {
+          "image_file": "unicorn3.png",
+          "emojis": ["😢","😔"]
+        },
+        {
+          "image_file": "unicorn4.png",
+          "emojis": ["🙃","🤝"]
+        },
+        {
+          "image_file": "unicorn5.png",
+          "emojis": ["😬","🤭"]
+        }]
+    }
+    ]
+}
